@@ -1,4 +1,4 @@
-# *My HackerRank 's Problems Solutions Using Mostly Java*
+# *My HackerRank Solutions Using Mostly Java*
 ## Hacker Rank
 <b>HackerRank</b> formerly called Interview Street, Inc:
 <br>
