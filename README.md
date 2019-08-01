@@ -3,9 +3,7 @@
     <a href="https://www.hackerrank.com/Meozz">
         <img src="http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg" >
     </a>
-    <br>
-    <br>
-    <br>Solutions to HackerRank problems
+    <br><b> Solutions to HackerRank 's Problems <b>
 </p>
 
 ## Hacker Rank
