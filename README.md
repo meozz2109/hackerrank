@@ -1,9 +1,9 @@
 # *My HackerRank Solutions Using Mostly Java*
 <p align="center">
     <a href="https://www.hackerrank.com/Meozz">
-        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+        <img src="http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg" >
     </a>
-    <br>Solutions to HackerRank problems
+    <br><b> Solutions to HackerRank 's Problems <b>
 </p>
 
 ## Hacker Rank
