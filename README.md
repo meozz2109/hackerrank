@@ -14,4 +14,4 @@
 ## Overview
 Solutions for HackerRank's problems using Java or Python
 ## Profile
-My currently HackerRank profile's <a href="https://www.hackerrank.com/Meozz">link</a>.
+My currently HackerRank profile <a href="https://www.hackerrank.com/Meozz">link</a>.
