@@ -1,4 +1,4 @@
-# *My HackerRank Problem Solving Solutions Using Java or Python*
+# My HackerRank Problem Solving Solutions Using Java or Python
 <p align="center">
     <a href="https://www.hackerrank.com/Meozz">
         <img src="http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg" >
