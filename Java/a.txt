@@ -1,1 +1,1 @@
-aaa
+//Just test commit new file of Java folder.
