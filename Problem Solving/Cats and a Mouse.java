@@ -1,5 +1,5 @@
 // Cats and a Mouse
-// For example, input data: 1 2 3
+// For instance, input data: 1 2 3
 // Expected output: Mouse B
 static String catAndMouse(int x, int y, int z) {
         String re = "";
